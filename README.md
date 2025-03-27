@@ -1,5 +1,8 @@
 # ChurnRate_Prediction
 
+## Project Overview 
+This project was my first attempt into diving into machine learning by predicting customer churn rates using real world data. Through this project I got hands on experience with Python libraies like scikit-learn for building predictive models and Streamlit for creating an interactive web application. 
+
 ## Setup
 
 ### Prerequisites
